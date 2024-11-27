@@ -1,2 +1,2 @@
 # Tic-Tac-Toe-Game
-a mini project
+a mini project made with HTML, CSS & JavaScript
